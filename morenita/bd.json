@@ -1,0 +1,785 @@
+{
+    "admis": {
+      "admin1": {
+        "email": "andresjavier_400@hotmail.com",
+        "isAdmin": true,
+        "nombre": "andres"
+      }
+    },
+    "bannerespecial": {
+      "activo": true,
+      "celular": "https://i.imgur.com/bkJU1Os.png",
+      "link": "catalogo-especial.html",
+      "pc": "https://i.imgur.com/uDH6Z13.jpg"
+    },
+    "carrusel": {
+      "desktop": [
+        {
+          "alt": "img1",
+          "link": "fresas.html",
+          "url": "https://i.imgur.com/oxrSEA0.png"
+        },
+        {
+          "alt": "img2",
+          "link": "arreglos.html",
+          "url": "https://i.imgur.com/9QL0hZJ.png"
+        },
+        {
+          "alt": "img3",
+          "link": "desayunos.html",
+          "url": "https://i.imgur.com/4ievzgs.png"
+        }
+      ],
+      "mobile": [
+        {
+          "alt": "img5",
+          "link": "desayunos.html",
+          "url": "https://i.imgur.com/DhrrcsI.png"
+        },
+        {
+          "alt": "im2",
+          "link": "fresas.html",
+          "url": "https://i.imgur.com/BaM5tSz.png"
+        }
+      ]
+    },
+    "configuracion": {
+      "carrusel1": {
+        "mostrarCarrusel": true,
+        "mostrarTexto": true,
+        "texto": "ARREGLOS FLORALES QUE CONVIERTEN CUALQUIER DÍA EN ESPECIAL"
+      },
+      "carrusel2": {
+        "mostrarCarrusel": true,
+        "mostrarTexto": true,
+        "texto": "SORPRENDE Y ENDULZA EL DÍA CON UN DESAYUNO INOLVIDABLE"
+      },
+      "carrusel3": {
+        "mostrarCarrusel": true,
+        "mostrarTexto": true,
+        "texto": "CELEBRA, DISFRUTA Y BRINDA CON LO MEJOR"
+      }
+    },
+    "pedidos": {
+      "-OLvCO9lSvPRWGahCHFQ": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "categoria": "diaespecial",
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "usuario1@donflix.com",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Pendiente",
+        "fecha": "2025-03-22T00:16:45.231Z",
+        "fechaFormateada": "17/3/2025",
+        "id": "732019",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "frutales",
+            "id": "0",
+            "imagen": "https://i.imgur.com/leUJucG.png",
+            "nombre": "CANASTA FRUTAL",
+            "precio": 102000
+          }
+        ],
+        "subtotal": 102000,
+        "timestamp": 1742602605231,
+        "total": 114000
+      },
+      "-OLvCRf28DXzIMnP-Fcs": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "categoria": "diaespecial",
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "usuario1@donflix.com",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Pendiente",
+        "fecha": "2025-03-22T00:16:59.586Z",
+        "fechaFormateada": "21/3/2025",
+        "id": "984212",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "frutales",
+            "id": "1",
+            "imagen": "https://i.imgur.com/e4hzSZ0.png",
+            "nombre": "MINI CANASTA FRUTAL",
+            "precio": 59000
+          }
+        ],
+        "subtotal": 59000,
+        "timestamp": 1742602619586,
+        "total": 71000
+      },
+      "-OLvCVNKApsLlQZ-VgxI": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "categoria": "diaespecial",
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "usuario1@donflix.com",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Enviado",
+        "fecha": "2025-03-22T00:17:14.772Z",
+        "fechaFormateada": "21/4/2025",
+        "id": "362223",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 2,
+            "categoria": "desayunos",
+            "id": "2",
+            "imagen": "https://i.imgur.com/MWu7ccT.png",
+            "nombre": "MENU 2",
+            "precio": 60000
+          }
+        ],
+        "subtotal": 120000,
+        "timestamp": 1742602634773,
+        "total": 132000
+      },
+      "-OLyGN1cVQgBZHPt_Z3d": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "usuario1@donflix.com",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Pendiente",
+        "fecha": "2025-03-22T14:33:00.838Z",
+        "fechaFormateada": "22/3/2025",
+        "id": "548004",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "carrusel2",
+            "id": "2",
+            "imagen": "https://i.imgur.com/MWu7ccT.png",
+            "nombre": "MENU 2",
+            "precio": 60000
+          }
+        ],
+        "subtotal": 60000,
+        "timestamp": 1742653980838,
+        "total": 72000
+      },
+      "-OLyGQ7L2dglzF8qOZ4g": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "usuario1@donflix.com",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Enviado",
+        "fecha": "2025-03-22T14:33:13.493Z",
+        "fechaFormateada": "22/3/2025",
+        "id": "393306",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "carrusel2",
+            "id": "2",
+            "imagen": "https://i.imgur.com/MWu7ccT.png",
+            "nombre": "MENU 2",
+            "precio": 60000
+          }
+        ],
+        "subtotal": 60000,
+        "timestamp": 1742653993493,
+        "total": 72000
+      },
+      "-OLzTo62NjlXWDAfd3X_": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "categoria": "desayunos",
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "usuario1@donflix.com",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Pendiente",
+        "fecha": "2025-03-22T20:11:20.897Z",
+        "fechaFormateada": "22/3/2025",
+        "id": "804052",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "desayunos",
+            "id": "0",
+            "imagen": "https://i.imgur.com/avRadCI.png",
+            "nombre": "MENU 1",
+            "precio": 39000
+          }
+        ],
+        "subtotal": 39000,
+        "timestamp": 1742674280897,
+        "total": 51000
+      },
+      "-OLzU8a41WwLTr367zRR": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "categoria": "desayunos",
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "categoria adicion xd",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Entregado",
+        "fecha": "2025-03-22T20:12:48.899Z",
+        "fechaFormateada": "22/3/2025",
+        "id": "230521",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "desayunos",
+            "id": "1",
+            "imagen": "https://i.imgur.com/69x5B1o.png",
+            "nombre": "BOWL DE FRUTAS",
+            "precio": 41000
+          }
+        ],
+        "subtotal": 41000,
+        "timestamp": 1742674368899,
+        "total": 53000
+      },
+      "-OMYN4dcAIQq-tNYBzY8": {
+        "adicionales": {
+          "colorGlobo": "https://i.imgur.com/wdTqQYB.png",
+          "globos": "1 con helio (+$4500)",
+          "mensaje": "Personalizado: \"dvssdv\" (+0)",
+          "motivo": "Feliz aniversario"
+        },
+        "adicionales_costo": 4500,
+        "categoria": "diaespecial",
+        "cliente": {
+          "direccion": "carrera 33a 1637 valledupar cesar\n1\nvalledupar",
+          "email": "andresjavier_400@hotmail.com",
+          "nombre": "andres el paspisdddddddddd",
+          "telefono": "3113983780"
+        },
+        "envio": 12000,
+        "estado": "Pendiente",
+        "fecha": "2025-03-29T19:28:17.509Z",
+        "fechaFormateada": "29/3/2025",
+        "id": "243061",
+        "metodo_pago": "Transferencia bancaria",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "diaespecial",
+            "id": "0",
+            "imagen": "https://i.imgur.com/tNpk0cH.jpg",
+            "nombre": "CONO FLORAL",
+            "precio": 59000
+          },
+          {
+            "cantidad": 1,
+            "imagen": "https://i.imgur.com/lyiV8pA.png",
+            "nombre": "Adición 3",
+            "precio": 10000
+          }
+        ],
+        "subtotal": 69000,
+        "timestamp": 1743276497509,
+        "total": 85500
+      },
+      "-OMw3hlBxNP-Pf0SCX_W": {
+        "adicionales": {
+          "colorGlobo": "",
+          "globos": "Ninguno",
+          "mensaje": "Ninguno",
+          "motivo": "No especificado"
+        },
+        "adicionales_costo": 0,
+        "cliente": {
+          "direccion": "kkjk",
+          "email": "karinameza@gmail.com",
+          "nombre": "Juan Antonio",
+          "telefono": "3206894310"
+        },
+        "envio": 12000,
+        "estado": "Pendiente",
+        "fecha": "2025-04-03T14:34:09.355Z",
+        "fechaFormateada": "3/4/2025",
+        "id": "761871",
+        "metodo_pago": "Efectivo al recibir",
+        "productos": [
+          {
+            "cantidad": 1,
+            "categoria": "desayunos",
+            "id": "0",
+            "imagen": "https://i.imgur.com/avRadCI.png",
+            "nombre": "MENU 1",
+            "precio": 39000
+          }
+        ],
+        "subtotal": 39000,
+        "timestamp": 1743690849355,
+        "total": 51000
+      }
+    },
+    "productos": {
+      "arreglos": [
+        {
+          "categoria": "arreglos",
+          "descripcion": "Cono o papel coreano, tarjeta con mensaje personalizado y empaque en bolsa. contiene: 12 rosas naturales.",
+          "favoritos": "",
+          "id": "CONO FLORAL",
+          "imagen": "https://i.imgur.com/tNpk0cH.jpg",
+          "imagen2": "https://i.imgur.com/CYCsrVh.jpg",
+          "imagen3": "https://i.imgur.com/0B0fgZD.jpg",
+          "nombre": "CONO FLORAL",
+          "precio": "59000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "  Cono o papel coreano, tarjeta con mensaje personalizado y empaque en bolsa. contiene: 6-7 rosas naturales y 4 chocolates Ferreros Rocher.",
+          "favoritos": 1,
+          "id": "",
+          "imagen": "https://i.imgur.com/YwTkT1V.jpg",
+          "imagen2": "https://i.imgur.com/JWG20Ja.jpg",
+          "imagen3": "https://i.imgur.com/ai2D7sK.jpg",
+          "nombre": "CONO FERRERO MINI",
+          "precio": "59000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Cono o papel coreano, tarjeta con mensaje personalizado y empaque en bolsa. contiene: 8-9 rosas naturales y 8 chocolates Ferreros Rocher.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/89C8r0i.jpg",
+          "imagen2": "https://i.imgur.com/StCImRF.jpg",
+          "imagen3": "https://i.imgur.com/q8My3WY.jpg",
+          "nombre": "CONO FERRERO",
+          "precio": "78000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Cartón negro, lazo y tarjeta con mensaje personalizado. contiene: 48-50 rosas naturales.",
+          "favoritos": 0,
+          "id": "ramo love",
+          "imagen": "https://i.imgur.com/UoMBFD0.jpg",
+          "imagen2": "https://i.imgur.com/tPa7cc2.jpg",
+          "imagen3": "https://i.imgur.com/86nl6do.jpg",
+          "nombre": "RAMO LOVE",
+          "precio": "198000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": " Papel coreano, lazo, empaque en bolsa y tarjeta con mensaje personalizado. contiene: Arreglo floral de mano compuesto por rosas naturales, flores y follajes en tonos disponibles, 2 chocolates Ferreros Rocher ",
+          "favoritos": 0,
+          "id": "",
+          "imagen": "https://i.imgur.com/fTkTLO3.jpg",
+          "imagen2": "https://i.imgur.com/s0eIcSw.jpg",
+          "imagen3": "https://i.imgur.com/s0eIcSw.jpg",
+          "nombre": "RAMO PURA",
+          "precio": "53000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "  Papel coreano, lazo y tarjeta con mensaje personalizado. contiene: 24 rosas naturales y follaje disponible.",
+          "favoritos": 0,
+          "id": "",
+          "imagen": "https://i.imgur.com/Q8iXwoW.jpg",
+          "imagen2": "https://i.imgur.com/iEAa2sG.jpg",
+          "imagen3": "https://i.imgur.com/Q8iXwoW.jpg",
+          "nombre": "RAMO EVA",
+          "precio": "140000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "  Papel coreano, lazo y tarjeta con mensaje personalizado. contiene: 30-35 rosas naturales.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/1lZRBK1.jpg",
+          "imagen2": "https://i.imgur.com/u0j8mTY.jpg",
+          "imagen3": " https://i.imgur.com/24YFvT4.jpg",
+          "nombre": "RAMO FIORI",
+          "precio": "154000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Papel coreano, lazo y tarjeta con mensaje personalizado. contiene: 7 girasoles con follaje y 4 chocolates ferrero rocher.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/TN71Uk2.jpg",
+          "imagen2": "https://i.imgur.com/7oeKO6J.jpg",
+          "imagen3": "https://i.imgur.com/57mgvms.jpg",
+          "nombre": "RAMO GIRASOLES",
+          "precio": "140000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Papel coreano, lazo y tarjeta con mensaje personalizado. contiene: 100 rosas naturales aprox. listón con frase corta,   ejemplo (feliz día, feliz mes, te amo, te quiero, feliz cumpleaños, feliz aniversario, perdóname, ¿quieres ser mi novia? ¿Te quieres casar conmigo?)... \"NO INCLUYE PELUCHE\"",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/I2AESdR.jpg",
+          "imagen2": "https://i.imgur.com/Hi2N7Uy.jpg",
+          "imagen3": "https://i.imgur.com/rOuzhAE.jpg",
+          "nombre": "RAMO BUCHON",
+          "precio": "382000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Caja de cartón rigido en forma de corazón, lazo y tarjeta con mensaje personalizado. contiene: 19-20 rosas naturales.  \"El arreglo va cubierto en tul blanco\"",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/qvOtUGT.jpg",
+          "imagen2": "https://i.imgur.com/yEzfLk2.jpg",
+          "imagen3": "https://i.imgur.com/CVqgRrM.jpg",
+          "nombre": "MINI ISABELLA",
+          "precio": "1220000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Caja de cartón rigida en forma de corazón, lazo y tarjeta con mensaje personalizado. contiene: 29-32 rosas naturales",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/xcpV5z9.jpg",
+          "imagen2": "https://i.imgur.com/HJMh87k.jpg",
+          "imagen3": "https://i.imgur.com/HJMh87k.jpg",
+          "nombre": "ISABELLA",
+          "precio": "175000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Caja de cartón rígida en forma de corazón, lazo y tarjeta con mensaje personalizado. contiene: 17-19 rosas naturales y 19 chocolates Ferrero Rocher",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/OrwDix8.jpg",
+          "imagen2": "https://i.imgur.com/kGkZFsH.jpg",
+          "imagen3": "https://i.imgur.com/oJu0GQR.jpg",
+          "nombre": "CORAZON FERRERO",
+          "precio": "193000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Empaque tipo cartera impermeable, lazo y tarjeta con mensaje personalizado. contiene: 10-11 rosas naturales con mix de follaje",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/8zK5P17.jpg",
+          "imagen2": "https://i.imgur.com/IPclpay.jpg",
+          "imagen3": "https://i.imgur.com/bt34VNH.jpg",
+          "nombre": "CARTERA FLORAL",
+          "precio": "129000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Canasta de paja artesanal, lazo y tarjeta con mensaje personalizado. contiene: Arreglo compuesto con 15 rosas, lirios, mini rosas y mix de follajes, puedes elegir: (peluche, vino, chocolates, mug o frutas)",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/KRGUsPG.jpg",
+          "imagen2": "https://i.imgur.com/KRGUsPG.jpg",
+          "imagen3": "https://i.imgur.com/KRGUsPG.jpg",
+          "nombre": "SANDRA",
+          "precio": "200000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Base de cartón rigido forma cilindro, lazo y tarjeta con mensaje personalizado. contiene: 24 rosas naturales con follaje y 7 globos con helio y 1 globo burbuja con helio y motivo",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/pNgEKuV.jpg",
+          "imagen2": "https://i.imgur.com/BMzTfsu.jpg",
+          "imagen3": "https://i.imgur.com/djwLsNC.jpg",
+          "nombre": "MEGA RAMO",
+          "precio": "260000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Base de cartón rígido forma cilindro, lazo y tarjeta con mensaje personalizado. contiene: Arreglo compuesto con 12-13 rosas y mix de follajes disponibles",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/8xtV5dC.jpg",
+          "imagen2": "https://i.imgur.com/gM6RRvX.jpg",
+          "imagen3": "https://i.imgur.com/KRrp31L.jpg",
+          "nombre": "RAMO KLHOE",
+          "precio": "130000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Base de cartón rígido forma cilindro, lazo y tarjeta con mensaje personalizado. contiene: Arreglo compuesto con 16-18 rosas y mix de follajes disponibles",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/GV3IOGq.jpg",
+          "imagen2": "https://i.imgur.com/Qt0VAJh.jpg",
+          "imagen3": "https://i.imgur.com/IHU5o1i.jpg",
+          "nombre": "RAMO REDONDO",
+          "precio": "198000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Base de cartón rígido forma cilindro, lazo y tarjeta con mensaje personalizado. contiene: Arreglo compuesto con rosas y mix de flores y follajes disponibles.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/CjOy5oZ.jpg",
+          "imagen2": "https://i.imgur.com/3f0Lp3Z.jpg",
+          "imagen3": "https://i.imgur.com/8K1EoRc.jpg",
+          "nombre": "RAMO MIXTO",
+          "precio": "189000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Base de cartón rígido o canasto de paja, lazo y tarjeta con mensaje personalizado. contiene: Arreglo compuesto con 60-65 rosas y follaje disponible",
+          "favoritos": "",
+          "id": "",
+          "image3": "https://i.imgur.com/oUlfRUj.jpg",
+          "imagen": "https://i.imgur.com/ySW0wOy.jpg",
+          "imagen2": "https://i.imgur.com/5zszfyj.jpg",
+          "nombre": "LOVE  FLOWER",
+          "precio": "280000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "caja de cartón rígido en forma de corazón, lazo y tarjeta con mensaje personalizado. contiene: Arreglo compuesto con 55-60 rosas, 11 chocolates ferrero rocher y vino tinto.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/DAPRD9D.jpg",
+          "imagen2": "https://i.imgur.com/FTiZx2k.jpg",
+          "imagen3": "https://i.imgur.com/QBqmmci.jpg",
+          "nombre": "MEGA CORAZON",
+          "precio": "360000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Cono o papel coreano, tarjeta con mensaje personalizado y empaque en bolsa. contiene: 5-6 rosas naturales y  1 girasol",
+          "favoritos": "",
+          "id": "",
+          "image3": "https://i.imgur.com/No0ATZw.jpg",
+          "imagen": "https://i.imgur.com/OXV82K5.jpg",
+          "imagen2": "https://i.imgur.com/IWZTbo3.jpg",
+          "nombre": "CONO GIRASOL CON ROSAS",
+          "precio": "58000"
+        },
+        {
+          "categoria": "arreglos",
+          "descripcion": "Una flor natural preservada que mantiene su belleza y frescura por años, sin necesidad de agua ni cuidados especiales. Perfecta para expresar amor, gratitud y admiración, esta rosa es el regalo ideal para momentos inolvidables.  Características:  Base de madera con cristal   Lazo Disponible en: Rosado, fucsia y rojo  Incluye tarjeta con mensaje personalizado  Tarjeta con instrucciones para el cuidado de la rosa",
+          "favoritos": "",
+          "id": "rosa eterna",
+          "imagen": "https://i.imgur.com/ExZvTQH.png",
+          "imagen2": "https://i.imgur.com/wahNfRx.png",
+          "imagen3": "https://i.imgur.com/ExZvTQH.png",
+          "nombre": "ROSA ETERNA",
+          "precio": "150000"
+        }
+      ],
+      "box": [
+        {
+          "categoria": "box",
+          "descripcion": "Jarra metálica, globo burbuja con motivo, hoja de papel, follaje, lazo y tarjeta con mensaje personalizado. contiene: 1 cerveza coronita o mini pony, papas Pringles, 3 galletas oreo, mini nutella o ponqué mini ramo y masmelos o gomitas",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/RFKbWkB.png",
+          "imagen2": "https://i.imgur.com/NrNyWVh.png",
+          "imagen3": "https://i.imgur.com/4vbtW1O.png",
+          "nombre": "DULCERA",
+          "precio": "62000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Jarra de aluminio, globo burbuja con motivo, hoja de papel, follaje, lazo y tarjeta con mensaje personalizado. contiene: Vino JP Chenet 200 ml, papas pringles, galleta oreo, 2 Mini nutella, masmelos o gomitas, ferrero Rocher x3 uni.y 1 galleta Hanuta",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/HfAP7Zr.jpg",
+          "imagen2": "https://i.imgur.com/Wp8ZbNG.jpg",
+          "imagen3": "https://i.imgur.com/h7ko8rk.jpg",
+          "nombre": "JARRA DULCERA",
+          "precio": "140000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "  Jarra de aluminio, globo burbuja con motivo, hoja de papel, follaje, lazo y tarjeta con mensaje personalizado. contiene: 3 cervezas coronitas, Ferreros Rocher x3 uni, papas pringles y mini nutella",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/Zb1uB8V.jpg",
+          "imagen2": "https://i.imgur.com/ZAild1J.jpg",
+          "imagen3": "https://i.imgur.com/RYcCrTV.png",
+          "nombre": "JARRA CERVECERA",
+          "precio": "99000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera con relleno, lazo, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Vino tinto de 750 ml, chocolate ferrero x3 unidades y 1 copa de vidrio.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/5NREGsW.jpg",
+          "imagen2": "https://i.imgur.com/vba2fcK.jpg",
+          "imagen3": "https://i.imgur.com/vba2fcK.jpg",
+          "nombre": "REFERENCIA 1",
+          "precio": "110000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera con relleno, lazo, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Vino tinto de 375 ml, chocolate ferrero x3 unidades y 1 copa de vidrio",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/1l5mNF6.jpg",
+          "imagen2": "https://i.imgur.com/cVmTzQE.jpg",
+          "imagen3": "https://i.imgur.com/Q2VPvbO.jpg",
+          "nombre": "REFERENCIA 2",
+          "precio": "87000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera con tapa de acrílico y nombre personalizado, relleno con viruta de madera, lazo de tela, tarjeta con mensaje personalizado. contiene: JP Chenet de lata, caja de 3 fresas con chocolate blanco y chocolate negro, frasco con frutos secos, vela decorativa con aroma de la virgen, ramito con flores secas. ",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/hIeoTPv.jpg",
+          "imagen2": "https://i.imgur.com/1Cz3qms.jpg",
+          "imagen3": "https://i.imgur.com/6J8SOpG.jpg",
+          "nombre": "REFERENCIA 3",
+          "precio": "106000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Vino personal 187ml, caja de chocolate, café tostado molido Juan Valdez de 70g, pocillo de vidrio, bolsita de frutos secos, vela decorativa con aroma, ramito con flores secas y tooper de feliz día o feliz cumpleaños",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/rsEa0Bo.jpg",
+          "imagen2": "https://i.imgur.com/OiSQJzj.jpg",
+          "imagen3": "https://i.imgur.com/8RVPHsk.jpg",
+          "nombre": "REFERENCIA 4",
+          "precio": "115000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera con tapa de acrílico y nombre personalizado, relleno con viruta de madera, lazo de tela, tarjeta con mensaje personalizado. contiene: JP Chenet de 200ml, copa de vidrio, 2 chocolates ferreros, pocillo de vidrio, bolsita de frutos secos, vela decorativa con aroma",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/9O1UgHc.jpg",
+          "imagen2": "https://i.imgur.com/dcZ5iEG.jpg",
+          "imagen3": "https://i.imgur.com/mgDSU7t.jpg",
+          "nombre": "REFERENCIA 5",
+          "precio": "127000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera de color, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Peluche conejito o oso (según disponibilidad), caja de 3 fresas cubiertas con chocolate negro y chocolate blanco, frasco con frutos secos, porta retrato con foto, ramito con flores secas",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/12EQomk.jpg",
+          "imagen2": "https://i.imgur.com/85NAHNy.jpg",
+          "imagen3": "https://i.imgur.com/sLxwuZq.jpg",
+          "nombre": "REFERENCIA 6",
+          "precio": "124000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera de color, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Vino Blanco JP Divine Brut Chardonnay  de 750 ml, peluche (según disponibilidad), 2 copas de vidiro personalizada, 2 chocolates ferreros, porta retrato con foto.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/VEfXgTG.jpg",
+          "imagen2": "https://i.imgur.com/3KDu0w9.jpg",
+          "nombre": "REFERENCIA 7",
+          "precio": "202000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera de color, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Vino Espumoso Jp Divine Muscat de 750 ml, caja de chocolate, frasco con frutos secos, vela decorativa con aroma, porta retrato con foto.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/z4VmVyF.jpg",
+          "imagen2": "https://i.imgur.com/3EOLU0z.jpg",
+          "imagen3": "https://i.imgur.com/R8yUHi6.jpg",
+          "nombre": "REFERENCIA 8",
+          "precio": "198000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera de color, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Whisky Buchanans Deluxe 750ml, capsulas de café Juan Valdéz, frasco con frutos secos, copa de whiskey y ramito de flores secas.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/U9gR1GQ.jpg",
+          "imagen2": "https://i.imgur.com/c1zyxuQ.jpg",
+          "imagen3": "https://i.imgur.com/egvnX2M.jpg",
+          "nombre": "REFERENCIA 9",
+          "precio": "264000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Vino de 375ml, caja de chocolate Mont Black, bolsa con frutos secos, porta retrato con foto, vela decorativa con aroma, ramito de flores secas y tooper dorado de feliz día o feliz cumpleaños.",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/PiZoGGM.jpg",
+          "imagen2": "https://i.imgur.com/qTc246y.jpg",
+          "imagen3": "https://i.imgur.com/vlVVJzQ.jpg",
+          "nombre": "REFERENCIA 10",
+          "precio": "138000"
+        },
+        {
+          "categoria": "box",
+          "descripcion": "Caja de madera de color, relleno con viruta de madera, lazos, tarjeta con mensaje personalizado, el arreglo va cubierto en tul blanco. contiene: Crema Baileys de 700ml, caja de fresas con chocolate blanco y chocolate negro, copa de vidirio personalizada, vela decorativa con aroma y ramito de flores secas",
+          "favoritos": "",
+          "id": "",
+          "imagen": "https://i.imgur.com/AUks0YH.jpg",
+          "imagen2": "https://i.imgur.com/xkZaSWd.jpg",
+          "imagen3": "https://i.imgur.com/vjJRZZi.jpg",
+          "nombre": "referencia 11",
+          "precio": "200000"
+        }
+      ]
+    
+    }
+  }
